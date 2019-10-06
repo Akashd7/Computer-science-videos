@@ -83,3 +83,12 @@
 - [Computer Algorithms - 2 - IIT Kanpur](https://nptel.ac.in/courses/106104019/)
 - [Parallel Algorithm - IIT Kanpur](https://nptel.ac.in/courses/106104120/)
 
+### Systems Programming
+
+- [6.033 Computer System Engineering - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2009/video-lectures/)
+- [CS24 Introduction to Computing Systems - California Institute of Technology](http://courses.cms.caltech.edu/cs24/) ([Spring 15 version](http://users.cms.caltech.edu/~donnie/cs24/))
+- [15-213 Introduction to Computer Systems, Fall 2015  - CMU](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22&maxResults=150)
+- [CS361 - COMPUTER SYSTEMS - UIC](https://www.cs.uic.edu/CS361fall13)
+- [CS 4400 – Computer Systems   Fall 2016 - UoUtah](https://www.eng.utah.edu/~cs4400/)
+- [Systems - Aduni](http://aduni.org/courses/systems/index.php?view=cw)
+

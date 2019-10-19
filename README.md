@@ -105,3 +105,27 @@
 	- [Introduction to Operating Systems - IIT Madras](https://nptel.ac.in/courses/106106144/)
 	- [CS194 Advanced Operating Systems Structures and Implementation, Spring 2013 InfoCoBuild, UC Berkeley](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs194-spring2013-berkeley.html)
 	- [CSE 60641 - Graduate Operating Systems, Fall 08](https://www.youtube.com/view_play_list?p=22B10D854588E20C)
+	
+	**Distributed Systems**
+	- [CS 677 - Distributed Operating Systems, Spring 16 - Umass OS](https://www.youtube.com/playlist?list=PLacuG5pysFbC68w0PW3huMHDDRNsDCTjp)
+	- [CS 436 - Distributed Computer Systems - U Waterloo](https://www.youtube.com/playlist?list=PLawkBQ15NDEkDJ5IyLIJUTZ1rRM9YQq6N)
+	- [6.824 - Distributed Systems, Spring 2015 - MIT](https://www.youtube.com/playlist?list=PLkcQbKbegkMqiWf7nF8apfMRL4P4sw8UL)
+	- [Distributed Algorithms, https://canvas.instructure.com/courses/902299](https://www.youtube.com/playlist?list=PL700757A5D4B3F368)
+	- [CSEP 552 - PMP Distributed Systems, Spring 2013 - University of Washington](https://courses.cs.washington.edu/courses/csep552/13sp/) ([Videos](https://courses.cs.washington.edu/courses/csep552/13sp/video/))
+	- [CSE 490H - Scalable Systems: Design, Implementation and Use of Large Scale Clusters, Autumn 2008 - University of Washington](https://courses.cs.washington.edu/courses/cse490h/08au/lectures.htm) ([Videos](https://courses.cs.washington.edu/courses/cse490h/08au/video.htm))
+	- [MOOC - Cloud Computing Concepts - UIUC](https://www.youtube.com/playlist?list=PLFd87qVsaLhOkTLvfp6MC94iFa_1c9wrU)
+	- [Distributed Systems (Prof. Pallab Dasgupta)](https://www.youtube.com/playlist?list=PLUJ7JmcrTifBROWODSG8wgyl20XgBuE-N)
+	- [EdX KTHx ID2203 Reliable Distributed Algorithms](https://www.youtube.com/playlist?list=PLx3mQFFeHPjndmQ0iP9j6C58b90hqGa0X)
+	- [Distributed Data Management - Technische Universität Braunschweig, Germany](http://www.ifis.cs.tu-bs.de/teaching/ss-15/ddm)
+	- [Information Retrieval and Web Search Engines - Technische Universität Braunschweig, Germany](http://www.ifis.cs.tu-bs.de/teaching/ws-1516/IRWS)
+- **Real-Time Systems**
+	- [CPCS 663 - Real-Time Systems: Video Material - TAMU](http://faculty.cs.tamu.edu/bettati/Courses/663/Video/presentation.html)
+	- [Real Time Systems - IIT Kharagpur](https://nptel.ac.in/courses/106105036/)
+- [6.172 Performance Engineering of Software Systems - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2010/)
+- [Performance Evaluation of Computer Systems - IIT Madras](https://nptel.ac.in/courses/106106048/)
+- [Storage Systems - IISC Bangalore](https://nptel.ac.in/courses/106108058/)
+- [MAP6264 - Queueing Theory - FAU](http://www.cse.fau.edu/~bob/courses/map6264/)([Video Lectures](https://vimeo.com/album/171324/))
+- [EE 380 Colloquim on Computer Systems - Stanford University](http://web.stanford.edu/class/ee380/) ([Lecture videos](https://www.youtube.com/playlist?list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu))
+
+
+------------------------------------------------------------

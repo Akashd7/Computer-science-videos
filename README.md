@@ -129,3 +129,30 @@
 
 
 ------------------------------------------------------------
+------------------------------------------------------------
+
+
+### Database Systems
+
+- [CMPSC 431W Database Management Systems, Fall 2015 - Penn State University](http://www.cse.psu.edu/~wul2/cmpsc431w/) [Lectures - YouTube](https://www.youtube.com/playlist?list=PLstRzn3gXZMdXqAiVJ1NN2CoyXHqma7pQ)
+- [CS121 - Introduction to Relational Database Systems, Fall 2016 - Caltech](http://users.cms.caltech.edu/~donnie/cs121/)
+- [CS 5530 - Database Systems, Spring 2016 - University of Utah](https://www.youtube.com/playlist?list=PLbuogVdPnkCrercQNP9tTsjjPdgRVYvC7)
+- [Distributed Data Management (WT 2018/19) - HPI University of Potsdam](https://www.tele-task.de/series/1224/)
+- [MOOC - Database Stanford Dbclass](https://www.youtube.com/playlist?list=PL6hGtHedy2Z4EkgY76QOcueU8lAC4o6c3)
+- [CSEP 544, Database Management Systems, Au 2015 - University of Washington](https://www.youtube.com/playlist?list=PLTPQEx-31JXjQYrUKvAjUTWgCYluHGs_L)
+- [Database Design - IIT Madras](https://nptel.ac.in/courses/106106093/)
+- [Fundamentals of Database Systems - IIT Kanpur](https://nptel.ac.in/courses/106104135/)
+- [Principles of Database Management, Bart Baesens](https://www.youtube.com/playlist?list=PLdQddgMBv5zEhlpqdiUcf9aTNEtmESgyl)
+- [FIT9003 Database Systems Design - Monash University](https://itunes.apple.com/us/podcast/fit9003-database-systems-design/id306569364)
+- [15-445 - Introduction to Database Systems, CMU](https://15445.courses.cs.cmu.edu/fall2018/) ([YouTube-2018](https://www.youtube.com/playlist?list=PLSE8ODhjZXja3hgmuwhf89qboV1kOxMx7), [YouTube-2017](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYutVzTeAds8xUt1rcmyT7x))
+- [15-721 - Database Systems, CMU](http://15721.courses.cs.cmu.edu/spring2017) ([YouTube-2017](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYgTIlqf4Dy9KQpQ7kn1Tl0), [YouTube-2016](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbisIGOepfnlbfxeH7TW-8O))
+- [CS122 - Relational Database System Implementation, Winter 2014-2015 - Caltech](http://users.cms.caltech.edu/~donnie/cs122/)
+- [CS 186 - Database Systems, UC Berkeley, Spring 2015](https://sites.google.com/site/cs186spring2015/home/schedule-and-notes) ([Lectures- InfoCoBuild](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs186-spring2015-berkeley.html))
+- [CS 6530 - Graduate-level Database Systems, Fall 2016, University of Utah](https://www.cs.utah.edu/~lifeifei/cs6530/) ([Lectures - YouTube](https://www.youtube.com/playlist?list=PLbuogVdPnkCqwHUcieMrytP453Ep0y6eI))
+- [6.830/6.814 - Database Systems [Fall 2014]](https://www.youtube.com/playlist?list=PLfciLKR3SgqOxCy1TIXXyfTqKzX2enDjK)
+- [Informatics 1 - Data & Analysis 2014/15- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2014/da.htm)
+- [Database Management Systems, Aduni](http://aduni.org/courses/databases/index.php?view=cw)
+- [D4M - Signal Processing on Databases](https://ocw.mit.edu/resources/res-ll-005-d4m-signal-processing-on-databases-fall-2012/)
+
+
+------------------------------

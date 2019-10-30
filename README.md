@@ -184,3 +184,26 @@
 - **Software Architecture**
 	- [CS 411 - Software Architecture Design - Bilkent University](http://video.bilkent.edu.tr/course_videos.php?courseid=10)
 	- [MOOC - Software Architecture & Design - Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkMTetlG7xKWaI5ZAZFX8fL)
+	
+	**Concurrency**
+	- [CS176 - Multiprocessor Synchronization - Brown University](http://cs.brown.edu/courses/cs176/course_information.shtml) ([Videos from 2012](http://www.brown.edu/cis/sta/dev/herlihy_csci1760_fa12/#vid))
+	- [CS 282 (2014): Concurrent Java Network Programming in Android](https://www.youtube.com/playlist?list=PLZ9NgFYEMxp4KSJPUyaQCj7x--NQ6kvcX)
+	- [CSE P 506 – Concurrency, Spring 2011 - University of Washington](https://courses.cs.washington.edu/courses/csep506/11sp/Home.html) ([Videos](https://courses.cs.washington.edu/courses/csep506/11sp/Videos.html))
+	- [CSEP 524 - Parallel Computation - University of Washington](https://courses.cs.washington.edu/courses/csep524/10sp/) ([Videos](https://courses.cs.washington.edu/courses/csep524/10sp/lectures/video.html))
+	- [Parallel Programming Concepts (WT 2013/14) - HPI University of Potsdam](https://www.tele-task.de/series/977/)
+	- [Parallel Programming Concepts (WT 2012/13) - HPI University of Potsdam](https://www.tele-task.de/series/924/)
+- **Mobile Application Development**
+	- [MOOC Programming Mobile Applications for Android Handheld Systems - University of Maryland](https://www.youtube.com/playlist?list=PLkHsKoi6eZnwilGXUc95CqS7Vw4uLLDLG)
+	- [CS 193p - Developing Applications for iOS, Stanford University](https://itunes.apple.com/us/course/developing-ios-9-apps-swift/id1104579961)
+	- [CS S-76 Building Mobile Applications - Harvard](http://cs76.tv/2013/summer/)
+	- [CS 251 (2015): Intermediate Software Design](https://www.youtube.com/playlist?list=PLZ9NgFYEMxp7lylj-XC8h1kjatOjbh9ne)
+	- [Android App Development for Beginners Playlist - thenewboston](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBsvRxJJOzG4r4k_zLKrnxl)
+	- [Android Application Development Tutorials - thenewboston](https://www.youtube.com/playlist?list=PL2F07DBCDCC01493A)
+	- [MOOC - Developing Android Apps - Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnMwH5-FNkErnnq_aSy706S)
+	- [MOOC - Advanced Android App Development - Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPmETCT07vnDSiIaUBuyut0X)
+	- [CSSE490 Android Development Rose-Hulman Winter 2010-2011, Dave Fisher](https://www.youtube.com/playlist?list=PLF3EEB647F6B52F03)
+	- [iOS Course, Dave Fisher](https://www.youtube.com/playlist?list=PL96C635E4DCD393A8)
+	- [Developing iPad Applications for Visualization and Insight - Carnegie Mellon University](https://itunes.apple.com/us/course/developing-ipad-applications/id499050344)
+	- [Mobile Computing - IIT Madras](https://nptel.ac.in/courses/106106147/)
+
+------------------------------
